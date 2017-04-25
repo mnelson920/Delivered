@@ -165,7 +165,7 @@ public class MainActivity extends Activity {
                                     " create.");
                     // store in keystore for use in MQTT client
                     // saved as alias "default" so a new certificate
-
+                    //
 
 
 
