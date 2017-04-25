@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "734363553560",
+    "firebase_url": "https://blinkled-f7f23.firebaseio.com",
+    "project_id": "blinkled-f7f23",
+    "storage_bucket": "blinkled-f7f23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734363553560:android:933e19cd99f6c60f",
+        "android_client_info": {
+          "package_name": "com.basement.mark.testapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734363553560-sci0uraeo3g7tu5845gsl8d765j3n5gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPWrIYGHsNtIlJ5drUJFn8DIBiMVeRoiw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
