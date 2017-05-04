@@ -1,7 +1,13 @@
 <resources>
-    <string name="app_name">testApp</string>
+    <string name="app_name">Deliverd</string>
     <string name="email_hint">Email</string>
     <string name="password_hint">Password</string>
     <string name="login_btn">Login</string>
     <string name="text_signup">No account yet? Create one</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="name_hint">Name</string>
+    <string name="username_hint">Username</string>
+    <string name="createAcct_btn">Create Account</string>
+    <string name="text_login">Already have a account? Login</string>
+
 </resources>
