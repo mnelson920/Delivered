@@ -32,13 +32,15 @@ dependencies {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     compile 'com.amazonaws:aws-android-sdk-pom:2.3.9'
-    compile 'com.android.support:appcompat-v7:25.1.1'
-    androidTestCompile 'junit:junit:4.12'
     compile 'com.amazonaws:aws-android-sdk-iot:2.3.9'
     compile 'com.amazonaws:aws-android-sdk-cognito:2.4.2'
-    compile 'com.android.support:design:26.0.0-alpha1'
+    compile 'com.android.support:design:25.3.1'
     compile 'com.jakewharton:butterknife:8.5.1'
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:+'
+    androidTestCompile 'junit:junit:4.12'
 }
+
 
 
 apply plugin: 'com.google.gms.google-services'
